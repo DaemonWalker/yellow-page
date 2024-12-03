@@ -1,0 +1,54 @@
+[
+  {
+    "name": "飞牛私有云fnOS",
+    "url": "http://nas.com:8000/login"
+  },
+  {
+    "name": "中兴智能路由器",
+    "url": "http://192.168.5.1/#/"
+  },
+  {
+    "name": "Wol",
+    "url": "http://localhost:3300/"
+  },
+  {
+    "name": "Jellyfin",
+    "url": "http://nas.com:8096/web/#/login.html?serverid=8f366761b2874e07a8ec1777641d5813&url=%2Fhome.html"
+  },
+  {
+    "name": "ASUS Wireless Router RT-AC86U - 网络地图",
+    "url": "https://192.168.5.2:8443/index.asp"
+  },
+  {
+    "name": "飞牛影视",
+    "url": "http://nas.com:8000/v/login"
+  },
+  {
+    "name": "Kavita",
+    "url": "http://nas.com:55000/home"
+  },
+  {
+    "name": "nas",
+    "url": "https://nas.com:9090/"
+  },
+  {
+    "name": "KasmVNC",
+    "url": "https://nas.com:6901/"
+  },
+  {
+    "name": "root - 首页 - Gitea: Git with a cup of tea",
+    "url": "http://nas.com:8418/"
+  },
+  {
+    "name": "迅雷下载",
+    "url": "http://nas.com:2345/webman/3rdparty/pan-xunlei-com/index.cgi/#/home"
+  },
+  {
+    "name": "nas.com:59090 - yacd",
+    "url": "http://nas.com:50081/"
+  },
+  {
+    "name": "emby",
+    "url": "http://nas.com:8096/web/index.html#!/home"
+  }
+]
